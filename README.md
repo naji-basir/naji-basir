@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Basir%20Naji&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20and%20UI%2FUX%20Desugner&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Basir%20Naji&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20and%20UI%2FUX%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=RELAX%20-%3E%20LEARN%20-%3E%20PLAN%20-%3E%20EXECUTE" alt="Typing introduction" />
@@ -31,9 +31,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=naji-basir&theme=radical&hide_border=true&cache_seconds=86400" alt="naji-basir's GitHub Streak" width="49%" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
