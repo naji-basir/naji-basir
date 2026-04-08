@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Naji Basir
 
-<!--
-**naji-basir/naji-basir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Backend-focused Full Stack Developer
+- ⚙️ Building APIs with Node.js & Prisma
+- 🧠 Learning System Design & Scalable Architecture
+- 🔥 Focused on real-world backend projects
+- 🎯 Writing clean, maintainable code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Advanced JavaScript (Objects & Prototypes)
+- Database Design & Optimization
+- API Architecture (REST & future: GraphQL)
+- System Design fundamentals
+
+---
+
+## 🚀 Tech Stack
+
+### ⚙️ Backend
+- Node.js, Express
+- Prisma ORM
+- REST APIs
+
+### 🎨 Frontend
+- HTML, CSS, JavaScript
+- React (learning phase)
+
+### 🗄️ Database
+- PostgreSQL
+- MySQL (basics)
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📊 GitHub Stats
+![Naji's GitHub stats](https://github-readme-stats.vercel.app/api?username=naji-basir&show_icons=true)
+
+---
+
+## ⚡ Philosophy
+> Build real systems. Not tutorials.
+
+---
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/naji-basir
